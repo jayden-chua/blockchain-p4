@@ -12,6 +12,12 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_transaction_history.png)
 
+## Project Requirements
+
+- Contract address: 0xd4407c4516626d44c20Dea3F532b75C108F1d113 (https://rinkeby.etherscan.io/address/0xd4407c4516626d44c20dea3f532b75c108f1d113)
+- Additional libraries used: truffle-hdwallet-provider
+- Node version number: v10.22.0
+- Truffle version number: v4.1.17
 
 ## Getting Started
 
