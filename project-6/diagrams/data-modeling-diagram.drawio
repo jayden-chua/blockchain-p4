@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T06:59:27.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="KmRwrHVALA8tKjofoCEZ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T07:00:22.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="od2t-RvXzUEwXL6BhyWg" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="815" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,6 +202,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="201" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qWVGGIRBpdKLxJRTf3en-75" value="Roles can be implemented as a library" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="90" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
